@@ -1,0 +1,1 @@
+This repo contains the solutions of the challenges of [Frontend Mentor](https://www.frontendmentor.io/challenges).
