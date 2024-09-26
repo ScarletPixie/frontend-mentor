@@ -1,7 +1,0 @@
-[submodule "country-info"]
-	path = country-info
-	url = git@github.com:ScarletPixie/country-info.git
-
-[submodule "qr-code"]
-	path = qr-code
-	url = git@github.com:ScarletPixie/frontend-mentor-qr-code-content.git
