@@ -1,0 +1,41 @@
+/* pre-defined values*/
+.purple-100 {color: hsl(254, 88%, 90%)}
+.purple-500 {color: hsl(256, 67%, 59%)}
+.yellow-100 {color: hsl(31, 66%, 93%)}
+.yellow-500 {color: hsl(39, 100%, 71%)}
+.white {color: hsl(0, 0%, 100%)}
+.black {color: hsl(0, 0%, 7%)}
+.bold {font-weight: 400;}
+.bolder {font-weight: 500;}
+
+h1 { font-size: 3rem }
+
+main
+{
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+}
+
+#main-card
+{
+	margin: 5rem;
+	overflow: hidden;
+	border-radius: 10px;
+	text-align: center;
+	background-color: hsl(256, 67%, 59%);
+	padding: 5%;
+}
+#main-card figure img
+{
+	width: 40%;
+}
+
+/*misc*/
+html, body
+{
+	padding: 0;
+	margin: 0;
+	font-family: "DM Sans", sans-serif;
+	font-optical-sizing: auto;
+	font-style: normal;
+}
