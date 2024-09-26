@@ -1,0 +1,3 @@
+[submodule "country-info"]
+	path = country-info
+	url = git@github.com:ScarletPixie/country-info.git
